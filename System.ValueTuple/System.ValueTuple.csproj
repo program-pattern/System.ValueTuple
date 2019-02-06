@@ -36,6 +36,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExtensionAttribute.cs" />
     <Compile Include="HashHelpers.cs" />
     <Compile Include="IStructuralComparable.cs" />
     <Compile Include="IStructuralEquatable.cs" />
@@ -49,6 +50,7 @@
       <DependentUpon>SR.resx</DependentUpon>
     </Compile>
     <Compile Include="Tuple.cs" />
+    <Compile Include="TupleExtensions.cs" />
     <Compile Include="ValueTuple.cs" />
   </ItemGroup>
   <ItemGroup>

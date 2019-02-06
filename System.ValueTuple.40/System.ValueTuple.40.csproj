@@ -52,6 +52,9 @@
     <Compile Include="..\System.ValueTuple\SR.Designer.cs">
       <Link>SR.Designer.cs</Link>
     </Compile>
+    <Compile Include="..\System.ValueTuple\TupleExtensions.cs">
+      <Link>TupleExtensions.cs</Link>
+    </Compile>
     <Compile Include="..\System.ValueTuple\ValueTuple.cs">
       <Link>ValueTuple.cs</Link>
     </Compile>
